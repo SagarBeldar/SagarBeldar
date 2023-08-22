@@ -37,4 +37,4 @@
 <br>
 
 <p>
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sagarbeldar&show_icons=true&locale=en" alt="sagarbeldar" width="380" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarbeldar&" alt="sagarbeldar" width="380" /></p>
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sagarbeldar&show_icons=true&locale=en" alt="sagarbeldar" width="400" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarbeldar&" alt="sagarbeldar" width="400" /></p>
