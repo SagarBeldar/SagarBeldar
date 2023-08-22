@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sagar Beldar</h1>
-<h3 align="center"> Currently I Pursuing Enginerring Degree in Third Year</h3>
+<h3 align="center"> Currently I Pursuing Engineering Degree in Third Year</h3>
 
 <img align="right" alt="coding" width="450" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -37,4 +37,4 @@
 <br>
 
 <p>
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sagarbeldar&show_icons=true&locale=en" alt="sagarbeldar" width="450" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarbeldar&" alt="sagarbeldar" width="450" /></p>
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sagarbeldar&show_icons=true&locale=en" alt="sagarbeldar" width="400" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarbeldar&" alt="sagarbeldar" width="400" /></p>
