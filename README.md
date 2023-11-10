@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning Full Stack Development **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [Projects](https://sagarbeldar.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Projects](https://main--precious-tartufo-17eb66.netlify.app/)
 
 - 📫 How to reach me **sagarbeldar03@gmail.com**
 
